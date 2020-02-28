@@ -34,3 +34,6 @@ mandarin
 watermelon
 pomegranate
 
+/nChicken
+Chicken
+Chicken

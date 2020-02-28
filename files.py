@@ -10,7 +10,7 @@
 
 # another way to read files/ the with also applies the open and close file for you.
 
-with open("fruits.txt") as myfile:
-    content = myfile.read()
+with open("files/fruits.txt",'a') as myfile:
+    content = myfile.write('blueberries')
     
 print(content)
