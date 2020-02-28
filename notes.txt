@@ -1,0 +1,5 @@
+pip install pandas
+
+installing modules
+
+sys.prefix to find the python root

@@ -23,5 +23,3 @@ for cals in new_cal:
 
 
 print(new_temps)
-
-print(cal)

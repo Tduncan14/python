@@ -4,7 +4,7 @@ import cv2
 cap = cv2.VideoCapture(0)
 
 # Define the image size scaling factor
-scaling_factor = 0.5
+scaling_factor = 2.0
 
 # Loop until you hit the Esc key
 while True:
